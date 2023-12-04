@@ -1,4 +1,6 @@
-# final_projest
+That's more advanced page. It is using vuex and router. You can create an account, login, become a coach and send message to chosen coach.  Data is stored in firebase.
+
+# Find coach vue
 
 This template should help get you started developing with Vue 3 in Vite.
 
